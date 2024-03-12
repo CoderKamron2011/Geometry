@@ -63,9 +63,9 @@ bool isCantinue = true;
             if (sideOfDraw == "1")
             {   
                 Console.Clear();
-                Console.WriteLine("triangle :    /\\t   ");
-                Console.WriteLine("             /   \\t ");
-                Console.WriteLine("            ------   ");       
+                Console.WriteLine("triangle :    /\\t    ");
+                Console.WriteLine("             /   \\t  ");
+                Console.WriteLine("            -------   ");       
              
 
                 if (sideOfDraw == "2")
